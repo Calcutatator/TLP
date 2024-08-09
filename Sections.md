@@ -1,6 +1,7 @@
 Sections of the The Lords Protocol 
 
-- Understanding TLP
+[Understanding TLP](Understanding TLP/Understanding TLP.md)
+
     - Overview
     - ELI5 TLP
     - Economic Principles of TLP
