@@ -1,7 +1,6 @@
 Sections of the The Lords Protocol 
 
-[Understanding TLP](Understanding TLP/Understanding TLP.md)
-
+- Understanding TLP
     - Overview
     - ELI5 TLP
     - Economic Principles of TLP
@@ -17,6 +16,8 @@ Sections of the The Lords Protocol
     - veLORDS FAQ
 
 - Paymaster Mechanism
+    - Overview
+    - Starknet Affordances
 
 - dLORDS Mechanism
     - Overview
