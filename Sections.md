@@ -1,6 +1,6 @@
 Sections of the The Lords Protocol 
 
-[Understanding TLP]([Understanding TLP/Understanding TLP.md](https://github.com/Calcutatator/TLP/blob/main/Understanding%20TLP/Understanding%20TLP.md))
+[Understanding TLP](Understanding TLP/Understanding TLP.md)
 
     - Overview
     - ELI5 TLP
