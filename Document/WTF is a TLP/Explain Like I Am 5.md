@@ -15,8 +15,8 @@ The ecosystem is made up of:
 
 These entities and protocols could be seen as single islands, working together we hope but not economically aligned.
 
-![](https://github.com/Calcutatator/TLP/blob/1ea881621d4c9d649e762abe6679ac84f03ff1ff/Images/awinitial.png)
+![image](https://github.com/Calcutatator/TLP/blob/1ea881621d4c9d649e762abe6679ac84f03ff1ff/Images/awinitial.png)
 
 The Lordship Protocol intends to solve this through economic incentives whilst strongly defining the LORDS tokens use case.
 
-![](https://github.com/Calcutatator/TLP/blob/1ea881621d4c9d649e762abe6679ac84f03ff1ff/Images/awtlp.png)
+![image](https://github.com/Calcutatator/TLP/blob/1ea881621d4c9d649e762abe6679ac84f03ff1ff/Images/awtlp.png)
