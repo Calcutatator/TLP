@@ -9,7 +9,7 @@
 ![velordssec](https://github.com/Calcutatator/TLP/blob/main/Images/velordssec.png)
 5. Input the amount of LORDS you wish to lock and duration.
 ![velordslock](https://github.com/Calcutatator/TLP/blob/main/Images/velordslock.png)
-Note: You are able to unlock earlier but that will come at sacrificing a % of the LORDS you lock. See the [Lords Lock details page]() for more info.
+Note: You are able to unlock earlier but that will come at sacrificing a % of the LORDS you lock. See the [Lords Lock details page](https://github.com/Calcutatator/TLP/blob/main/Document/How%20to%20/End%20User/Lords%20Lock.md) for more info.
 
 ## Adjusting your Locked Lords
 All adjustments of your locked LORDS within the veLORDS system is found within the [Realms.World](https://realms.world/account/lords) section.
@@ -30,7 +30,7 @@ To increase the amount LORDS you have locked.
 3. Press "Update Lock".
 
 ### Withdrawing your Locked Lords
-You can withdraw your locked lords at any point but if you lock your LORDS before the lock is complete you will take a penalty. The penalty is defined within the [Lords Lock details page]().
+You can withdraw your locked lords at any point but if you lock your LORDS before the lock is complete you will take a penalty. The penalty is defined within the [Lords Lock details page](https://github.com/Calcutatator/TLP/blob/main/Document/How%20to%20/End%20User/Lords%20Lock.md).
 
 1. Go to the "Early Withdrawal" section.
 ![earlywithdraw](https://github.com/Calcutatator/TLP/blob/main/Images/earlywithdraw.png)
