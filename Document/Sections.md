@@ -3,7 +3,7 @@ Sections of the The Lords Protocol
 - Understanding TLP
     - [Overview](https://github.com/Calcutatator/TLP/blob/main/Document/Understanding%20TLP/TLP%20Overview.md)
     - [Thesis and Learnings](https://github.com/Calcutatator/TLP/blob/main/Document/Understanding%20TLP/Thesis%20and%20Reasoning.md)
-    - [ELI5]()
+    - [ELI5](https://github.com/Calcutatator/TLP/blob/main/Document/Understanding%20TLP/Explain%20Like%20I%20Am%205.md)
 
 - veLORDS Mechanism
     - [Overview]()
