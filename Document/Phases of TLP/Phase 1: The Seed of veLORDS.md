@@ -5,4 +5,4 @@ This is the foundational section creating the core loops of the protocol and to 
 Part
 
 
-![phase1](Calcutatator/TLP/Images/Phase1.png)
+![phase1](https://github.com/Calcutatator/TLP/blob/main/Images/Phase1.png)
