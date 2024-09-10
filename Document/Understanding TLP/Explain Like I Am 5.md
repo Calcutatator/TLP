@@ -25,6 +25,9 @@ The Lordship Protocol intends to solve this through economic incentives whilst s
 Simply; A Starknet based protocol leveraging the LORDS token to incentivise & align Liquidity and Games within Realms World.
 
 ### How does it work?
-
+It uses game fees and token incentives provided by RealmsDAO to create:
+1. Liquidity for tokens in the ecosystem.
+2. Incentives to Games and their studios.
 
 ### How do I use this? 
+Go to the ["How to" section](https://github.com/Calcutatator/TLP/blob/main/Document/Sections.md)

@@ -1,9 +1,9 @@
 Sections of the The Lords Protocol 
 
 - Understanding TLP
-    - [Overview]()
-    - [ELI5 TLP]()
-    - [Economic Principles of TLP]()
+    - [Overview](https://github.com/Calcutatator/TLP/blob/main/Document/Understanding%20TLP/TLP%20Overview.md)
+    - [Thesis and Learnings](https://github.com/Calcutatator/TLP/blob/main/Document/Understanding%20TLP/Thesis%20and%20Reasoning.md)
+    - [ELI5]()
 
 - veLORDS Mechanism
     - [Overview]()
