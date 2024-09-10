@@ -1,26 +1,18 @@
 Sections of the The Lords Protocol 
 
 - Understanding TLP
-    - Overview
-    - ELI5 TLP
-    - Economic Principles of TLP
-
-- Phases of TLP
-    - Phase 1: veLORDS & Games Funnel 
-    - Phase 2: Gauges & Liquidity Pools
-    - Phase 3: dLORDS Incentives
+    - [Overview]()
+    - [ELI5 TLP]()
+    - [Economic Principles of TLP]()
 
 - veLORDS Mechanism
-    - Overview
-    - Technical Explanation
-    - veLORDS FAQ
+    - [Overview]()
+    - [Technical Explanation]()
+    - [veLORDS FAQ]()
 
-- Paymaster Mechanism
-    - Overview
-    - Starknet Affordances
+- Phases of TLP
+    - [Phase 1: veLORDS & Games Funnel]()
 
-- dLORDS Mechanism
-    - Overview
-    - Technical Explanation
-    - dLORDS FAQ
-
+- How to 
+    - [Lords Holders](https://github.com/Calcutatator/TLP/blob/main/Document/How%20to%20/End%20User/Lords%20Holders.md)
+    - [Lords Lock]()
