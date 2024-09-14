@@ -9,6 +9,8 @@ Users can lock their LORDS tokens for a period of up to 4 years. The longer they
 - The maximum lock duration is 4 years.
 - Locks can only be extended in duration or increased in amount, not decreased.
 
+Lords rewards are claimable on a weekly basis.
+
 ## Voting Power
 
 The voting power is calculated based on two main factors: the amount locked and the time remaining until unlock. The core formula is:
