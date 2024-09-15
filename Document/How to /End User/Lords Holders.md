@@ -17,7 +17,7 @@ All adjustments of your locked LORDS within the veLORDS system is found within t
 To increase the duration of  go to your Locked LORDS.
 
 1. Go to the "Earn veLORDS" section. 
-![velordslock](https://github.com/Calcutatator/TLP/blob/main/Images/increaselock.png)
+![velordslock](https://github.com/Calcutatator/TLP/blob/main/Images/increase_lock.png)
 2. Enter the amount you wish to increase the duration of your locked lords by within the "Extend Lock Period (weeks)" box.
 3. Press "Update Lock".
 
@@ -25,7 +25,7 @@ To increase the duration of  go to your Locked LORDS.
 To increase the amount LORDS you have locked.
 
 1. Go to the "Earn veLORDS" section. 
-![velordslock](https://github.com/Calcutatator/TLP/blob/main/Images/increaselock.png)
+![velordslock](https://github.com/Calcutatator/TLP/blob/main/Images/increase_lock.png)
 2. Enter the amount you wish to add to you locked LORDS "Add Lords" box.
 3. Press "Update Lock".
 
