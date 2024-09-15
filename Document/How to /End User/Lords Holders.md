@@ -6,7 +6,7 @@
 3. Choose your relevant account.
 ![chooseacc](https://github.com/Calcutatator/TLP/blob/main/Images/chooseacc.png)
 4. Scroll down to the veLORDS section.
-![velordssec](https://github.com/Calcutatator/TLP/blob/main/Images/velordssec.png)
+![velordssec](https://github.com/Calcutatator/TLP/blob/main/Images/velords_page.png)
 5. Input the amount of LORDS you wish to lock and duration.
 ![velordslock](https://github.com/Calcutatator/TLP/blob/main/Images/velordslock.png)
 Note: You are able to unlock earlier but that will come at sacrificing a % of the LORDS you lock. See the [Lords Lock details page](https://github.com/Calcutatator/TLP/blob/main/Document/How%20to%20/End%20User/Lords%20Lock.md) for more info.
