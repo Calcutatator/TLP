@@ -14,4 +14,4 @@ Sections of the The Lords Protocol
 
 - How to 
     - [Lords Holders](https://github.com/Calcutatator/TLP/blob/main/Document/How%20to%20/End%20User/Lords%20Holders.md)
-    - [Lords Lock]()
+    - [Lords Lock](https://github.com/Calcutatator/TLP/blob/main/Document/How%20to%20/End%20User/Lords%20Lock.md)
