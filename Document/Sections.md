@@ -6,7 +6,7 @@ Sections of the The Lords Protocol
     - [ELI5](https://github.com/Calcutatator/TLP/blob/main/Document/Understanding%20TLP/Explain%20Like%20I%20Am%205.md)
 
 - veLORDS Mechanism
-    - [Detail]()
+    - [Detail](https://github.com/Calcutatator/TLP/blob/main/Document/veLORDS%20Mechanism/Detail.md)
     - [veLORDS FAQ](https://github.com/Calcutatator/TLP/blob/main/Document/veLORDS%20Mechanism/FAQ.md)
 
 - Phases of TLP
